@@ -1,0 +1,12 @@
+{
+    "patientdata": {
+        "patientnmdata": "sample",
+        "agedata": "68",
+        "pbdata": "1",
+        "fbdata": "0",
+        "obesitydata": "0",
+        "densitydata": "1",
+        "pathologydata": "2"
+    },
+    "path": "sample.json"
+}
